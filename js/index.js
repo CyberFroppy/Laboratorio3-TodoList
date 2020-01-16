@@ -1,4 +1,4 @@
-let post = document.getElementsByClassName("SubmitButton").value;
+let post = document.getElementById("ButtonPost");
 let clear = document.getElementById("ButtonClear");
 let mark = document.getElementById("ButtonMark");
 let del = document.getElementById("ButtonDelete");
